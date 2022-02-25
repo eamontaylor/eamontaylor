@@ -2,7 +2,7 @@
 - 👀 I’m interested in web 3
 - 🌱 I’m currently learning dapps
 - 💞️ I’m looking to collaborate on meta
-- 📫 How to reach me twitter @eamontalor
+- 📫 How to reach me twitter @eamontaylor
 
 <!---
 eamontaylor/eamontaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
